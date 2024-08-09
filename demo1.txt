@@ -1,2 +1,4 @@
 
-First text
+First Text
+
+Additional line added
